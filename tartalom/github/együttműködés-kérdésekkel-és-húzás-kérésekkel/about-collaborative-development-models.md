@@ -20,8 +20,4 @@ There are two main types of development models with which you'd use pull request
 
 In the *shared repository model*, collaborators are granted push access to a single shared repository and topic branches are created when changes need to be made. Pull requests are useful in this model as they initiate code review and general discussion about a set of changes before the changes are merged into the main development branch. This model is more prevalent with small teams and organizations collaborating on private projects.
 
-### Further reading
-
-- "[About pull requests](/articles/about-pull-requests)"
-- "[Creating a pull request from a fork](/articles/creating-a-pull-request-from-a-fork)"
-- "[Allowing changes to a pull request branch created from a fork](/articles/allowing-changes-to-a-pull-request-branch-created-from-a-fork)"
+### 
